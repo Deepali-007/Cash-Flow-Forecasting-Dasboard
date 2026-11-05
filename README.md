@@ -46,5 +46,5 @@ Developed a monthly cash flow forecasting model and an interactive dashboard to 
 
 ## Dashboard Preview
 
-![Cash Flow Forecasting Dashboard](Dashboard_Screenshot.png)
+![Cash Flow Forecasting Dashboard](Cash_Flow_Forecasting_Dashboard.png)
 
