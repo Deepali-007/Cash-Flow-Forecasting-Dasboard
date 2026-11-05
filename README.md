@@ -44,3 +44,7 @@ Cash Flow Analysis | Financial Forecasting | Microsoft Excel | Power BI | Financ
 ## Project Outcome
 Developed a monthly cash flow forecasting model and an interactive dashboard to present projected inflows, outflows, net cash flow, and closing cash balances. The dashboard provides a clear view of expected cash positions and potential cash flow shortfalls.
 
+## Dashboard Preview
+
+![Cash Flow Forecasting Dashboard](Dashboard_Screenshot.png)
+
